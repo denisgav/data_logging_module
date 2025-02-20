@@ -2313,7 +2313,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 36.5252 96.52 0)
 			(effects
 				(font
@@ -2350,6 +2350,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL21A106KOQNNNE"
+			(at 35.56 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10B104KB8NNNC"
 			(at 35.56 92.71 0)
 			(effects
 				(font
@@ -2858,7 +2867,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 157.1752 99.06 0)
 			(effects
 				(font
@@ -2895,6 +2904,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL21A106KOQNNNE"
+			(at 156.21 95.25 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10B104KB8NNNC"
 			(at 156.21 95.25 0)
 			(effects
 				(font
@@ -2946,7 +2964,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 181.3052 97.79 0)
 			(effects
 				(font
@@ -2983,6 +3001,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL21A106KOQNNNE"
+			(at 180.34 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10B104KB8NNNC"
 			(at 180.34 93.98 0)
 			(effects
 				(font
@@ -3071,6 +3098,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "0805W8F1002T5E"
+			(at 179.07 36.83 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F4701T5E"
 			(at 179.07 36.83 0)
 			(effects
 				(font
@@ -3214,7 +3250,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec) "
 			(at 100.33 107.95 0)
 			(effects
 				(font
@@ -3224,6 +3260,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "0805W8F1002T5E"
+			(at 100.33 107.95 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F5101T5E"
 			(at 100.33 107.95 0)
 			(effects
 				(font
@@ -3312,6 +3357,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "0805W8F1002T5E"
+			(at 64.77 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F1002T5E"
 			(at 64.77 41.91 0)
 			(effects
 				(font
@@ -3466,6 +3520,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "0805W8F1002T5E"
+			(at 69.85 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F4701T5E"
 			(at 69.85 106.68 0)
 			(effects
 				(font
@@ -3690,6 +3753,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "GL5528(10-20)"
+			(at 58.42 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "912b6eb9-1018-427a-ac22-a38f478e6b6b")
 		)
@@ -3835,6 +3907,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL10B104KB8NNNC"
+			(at 74.93 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10B104KB8NNNC"
 			(at 74.93 41.91 0)
 			(effects
 				(font
@@ -4060,6 +4141,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "0805W8F4701T5E"
+			(at 80.01 106.68 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d9d72543-31f1-493f-b81f-e843a32a9e07")
 		)
@@ -4122,6 +4212,24 @@
 			)
 		)
 		(property "Description" "3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8"
+			(at 168.91 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Bosch Sensortec"
+			(at 168.91 123.19 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "BME280"
 			(at 168.91 123.19 0)
 			(effects
 				(font
@@ -4348,7 +4456,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec)"
+		(property "Manufacturer" "UNI-ROYAL(Uniroyal Elec) "
 			(at 100.33 118.11 0)
 			(effects
 				(font
@@ -4358,6 +4466,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "0805W8F1002T5E"
+			(at 100.33 118.11 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F5101T5E"
 			(at 100.33 118.11 0)
 			(effects
 				(font
@@ -4428,6 +4545,24 @@
 			)
 		)
 		(property "Description" "3-in-1 sensor, humidity, pressure, temperature, I2C and SPI interface, 1.71-3.6V, LGA-8"
+			(at 48.26 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer" "Bosch Sensortec"
+			(at 48.26 120.65 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "BME280"
 			(at 48.26 120.65 0)
 			(effects
 				(font
@@ -4654,6 +4789,24 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer" "UMW(Youtai Semiconductor Co., Ltd.)"
+			(at 167.64 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "DS18B20(UMW)"
+			(at 167.64 41.91 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "3"
 			(uuid "5bd2ec6b-5ce2-4b58-914a-2d6006991a81")
 		)
@@ -4700,7 +4853,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "Capacitor_SMD:C_0805_2012Metric"
+		(property "Footprint" "Capacitor_SMD:C_0603_1608Metric"
 			(at 60.6552 95.25 0)
 			(effects
 				(font
@@ -4737,6 +4890,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL21A106KOQNNNE"
+			(at 59.69 91.44 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10B104KB8NNNC"
 			(at 59.69 91.44 0)
 			(effects
 				(font

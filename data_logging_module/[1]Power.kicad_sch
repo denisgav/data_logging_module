@@ -2272,7 +2272,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22u"
+		(property "Value" "22uF"
 			(at 127 118.11 0)
 			(effects
 				(font
@@ -2317,7 +2317,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samwha Capacitor"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 123.19 116.84 0)
 			(effects
 				(font
@@ -2326,7 +2326,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CS2012X5R226M160NRE"
+		(property "Manufacturer Part Number" "CL21A226MAYNNNE"
 			(at 123.19 116.84 0)
 			(effects
 				(font
@@ -2422,6 +2422,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "LQG18HN10NJ00D"
+			(at 77.47 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "LQG18HN10NJ00D"
 			(at 77.47 45.72 0)
 			(effects
 				(font
@@ -2527,6 +2536,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "CL21B105KBFNNNE"
+			(at 64.77 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "178cddda-1ec4-46c2-9817-09fd9c14094d")
 		)
@@ -2615,6 +2633,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "ARG05FTC5000"
+			(at 219.71 55.88 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "ARG05FTC5000"
 			(at 219.71 55.88 0)
 			(effects
 				(font
@@ -2783,7 +2810,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "HT7533-1 "
+		(property "Manufacturer Part Number" "HT7533-1"
 			(at 106.68 113.03 0)
 			(effects
 				(font
@@ -2891,6 +2918,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "TLV62569DBVR"
+			(at 130.81 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "5f8045f2-e027-478b-a60a-16ece026c1a5")
 		)
@@ -2988,6 +3024,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL21A226MAYNNNE"
+			(at 163.83 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL21A226MAYNNNE"
 			(at 163.83 52.07 0)
 			(effects
 				(font
@@ -3157,6 +3202,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "CL21A226MAYNNNE"
+			(at 105.41 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "086ef5fd-ba95-4968-b51a-cb9709bf77aa")
 		)
@@ -3268,7 +3322,7 @@
 				(justify left)
 			)
 		)
-		(property "Value" "22u"
+		(property "Value" "22uF"
 			(at 93.98 118.11 0)
 			(effects
 				(font
@@ -3313,7 +3367,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer" "Samwha Capacitor"
+		(property "Manufacturer" "Samsung Electro-Mechanics"
 			(at 90.17 116.84 0)
 			(effects
 				(font
@@ -3322,7 +3376,7 @@
 				(hide yes)
 			)
 		)
-		(property "Manufacturer Part Number" "CS2012X5R226M160NRE"
+		(property "Manufacturer Part Number" "CL21A226MAYNNNE"
 			(at 90.17 116.84 0)
 			(effects
 				(font
@@ -3757,6 +3811,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "CL21B105KBFNNNE"
+			(at 90.17 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "df23bf8d-577a-401a-9f35-998c5f47ef60")
 		)
@@ -3797,7 +3860,7 @@
 				)
 			)
 		)
-		(property "Footprint" "esp32s3_watches:MWSA0603S"
+		(property "Footprint" "data_logging_module:MWSA0603S"
 			(at 152.4 45.72 0)
 			(effects
 				(font
@@ -3843,6 +3906,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "FXL0630-150-M"
+			(at 152.4 45.72 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "FXL0630-150-M"
 			(at 152.4 45.72 0)
 			(effects
 				(font
@@ -4267,6 +4339,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "0805W8F1003T5E"
+			(at 181.61 52.07 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "fc2b0014-4fe4-46d7-88e4-eaa39207742f")
 		)
@@ -4355,6 +4436,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "0805W8F2202T5E"
+			(at 181.61 66.04 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F2202T5E"
 			(at 181.61 66.04 0)
 			(effects
 				(font

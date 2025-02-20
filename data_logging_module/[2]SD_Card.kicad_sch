@@ -2073,7 +2073,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "esp32s3_watches:AMPHENOL_10067847-001RLF"
+		(property "Footprint" "data_logging_module:AMPHENOL_10067847-001RLF"
 			(at 172.72 73.66 0)
 			(effects
 				(font
@@ -2111,26 +2111,6 @@
 				(hide yes)
 			)
 		)
-		(property "MANUFACTURER" "Amphenol FCI"
-			(at 172.72 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
-		(property "MAXIMUM_PACKAGE_HEIGHT" "2.80 mm"
-			(at 172.72 73.66 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(justify bottom)
-				(hide yes)
-			)
-		)
 		(property "STANDARD" "Manufacturer Recommendations"
 			(at 172.72 73.66 0)
 			(effects
@@ -2151,6 +2131,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "10067847-001RLF"
+			(at 172.72 73.66 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "10067847-001RLF"
 			(at 172.72 73.66 0)
 			(effects
 				(font
@@ -2288,6 +2277,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "PESD3V3L1BA,115"
+			(at 87.63 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "dc2c757d-0f8b-4ee8-8050-b803039703cf")
 		)
@@ -2376,6 +2374,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "0805W8F1002T5E"
+			(at 123.19 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "958ddd96-4f6d-40f1-a73c-bc80a84fa58d")
 		)
@@ -2456,6 +2463,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "0805W8F1002T5E"
+			(at 87.63 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F1002T5E"
 			(at 87.63 57.15 0)
 			(effects
 				(font
@@ -2618,6 +2634,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "0805W8F1002T5E"
+			(at 114.3 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "d67847d8-b15d-4afa-9d7d-35708c9e6349")
 		)
@@ -2714,6 +2739,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "PESD3V3L1BA,115"
+			(at 105.41 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "45b19899-82a9-4332-9331-1389f066d5f7")
 		)
@@ -2794,6 +2828,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL21A106KOQNNNE"
+			(at 140.97 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL21A106KOQNNNE"
 			(at 140.97 48.26 0)
 			(effects
 				(font
@@ -2898,6 +2941,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "PESD3V3L1BA,115"
+			(at 114.3 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "07fd23d8-a251-4b27-8d65-cb6821ab47bf")
 		)
@@ -2986,6 +3038,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "0805W8F1002T5E"
+			(at 96.52 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "f7208673-3278-4089-ae33-4c85389d4bc8")
 		)
@@ -3066,6 +3127,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL10B104KB8NNNC"
+			(at 153.67 48.26 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10B104KB8NNNC"
 			(at 153.67 48.26 0)
 			(effects
 				(font
@@ -3170,6 +3240,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "PESD3V3L1BA,115"
+			(at 132.08 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "ad4777f5-0c48-4028-9716-72549f4390ba")
 		)
@@ -3250,6 +3329,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "0805W8F1002T5E"
+			(at 132.08 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F1002T5E"
 			(at 132.08 57.15 0)
 			(effects
 				(font
@@ -3346,6 +3434,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "0805W8F1002T5E"
+			(at 105.41 57.15 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "85253a24-e8c3-44bb-b89a-385b5e348c63")
 		)
@@ -3434,6 +3531,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "PESD3V3L1BA,115"
+			(at 123.19 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "PESD3V3L1BA,115"
 			(at 123.19 93.98 0)
 			(effects
 				(font
@@ -3802,6 +3908,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "PESD3V3L1BA,115"
+			(at 96.52 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "1"
 			(uuid "76c32e94-eb8e-4201-8c9a-933a4fbccb94")
 		)
@@ -3890,6 +4005,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "PESD3V3L1BA,115"
+			(at 77.47 93.98 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "PESD3V3L1BA,115"
 			(at 77.47 93.98 0)
 			(effects
 				(font

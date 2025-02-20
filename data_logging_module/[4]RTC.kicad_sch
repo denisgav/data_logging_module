@@ -2106,6 +2106,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "PCF8563TS/5,118"
+			(at 73.66 78.74 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "46ddd12d-f4eb-403b-9824-b83f9ffa67b1")
 		)
@@ -2277,6 +2286,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "0805W8F5101T5E"
+			(at 96.52 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "3a26fce5-cc84-43e1-b984-e3ebc9e13607")
 		)
@@ -2381,6 +2399,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "1N4148W"
+			(at 67.31 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "ba6b5d28-1eea-4274-ad3b-070e5486fe73")
 		)
@@ -2461,6 +2488,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "0805W8F5101T5E"
+			(at 105.41 64.77 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "0805W8F5101T5E"
 			(at 105.41 64.77 0)
 			(effects
 				(font
@@ -2563,6 +2599,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "OK2EL89CJI-111YLC-32.768K"
+			(at 50.8 87.63 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "4"
 			(uuid "9f2484d2-409b-48ea-b0be-119b4be34179")
 		)
@@ -2649,6 +2694,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL21A106KOQNNNE"
+			(at 104.14 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL21A106KOQNNNE"
 			(at 104.14 35.56 0)
 			(effects
 				(font
@@ -2811,6 +2865,15 @@
 				(hide yes)
 			)
 		)
+		(property "Manufacturer Part Number" "CL10B104KB8NNNC"
+			(at 116.84 35.56 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
 		(pin "2"
 			(uuid "59c19ae3-d449-4883-9a0e-fa2b1da09886")
 		)
@@ -2899,6 +2962,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "CL10C150JB8NNNC"
+			(at 38.1 92.71 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "CL10C150JB8NNNC"
 			(at 38.1 92.71 0)
 			(effects
 				(font
@@ -3003,6 +3075,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "1N4148W"
+			(at 80.01 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "1N4148W"
 			(at 80.01 59.69 0)
 			(effects
 				(font
@@ -3250,7 +3331,7 @@
 				)
 			)
 		)
-		(property "Footprint" "esp32s3_watches:MPD_BC2032-E2"
+		(property "Footprint" "data_logging_module:MPD_BC2032-E2"
 			(at 43.18 59.69 0)
 			(effects
 				(font
@@ -3309,6 +3390,15 @@
 			)
 		)
 		(property "Manufacturer Product Number" "BS-02-A1AJ010"
+			(at 43.18 59.69 0)
+			(effects
+				(font
+					(size 1.27 1.27)
+				)
+				(hide yes)
+			)
+		)
+		(property "Manufacturer Part Number" "BS-02-A1AJ010"
 			(at 43.18 59.69 0)
 			(effects
 				(font
