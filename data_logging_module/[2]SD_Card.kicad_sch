@@ -1869,6 +1869,28 @@
 		)
 		(uuid "fefeaa77-7d90-404f-87b6-4ea83a9797fa")
 	)
+	(rectangle
+		(start 49.53 33.02)
+		(end 208.28 115.57)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(fill
+			(type none)
+		)
+		(uuid cde0584a-2b75-4d5d-9b16-b4046b368bf0)
+	)
+	(text "SD card connection"
+		(exclude_from_sim no)
+		(at 124.206 36.83 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+		)
+		(uuid "563a6a9f-7b08-4211-9f47-e4c37d1ddde8")
+	)
 	(global_label "SD_CARD_CMD{slash}MOSI"
 		(shape input)
 		(at 72.39 73.66 180)
